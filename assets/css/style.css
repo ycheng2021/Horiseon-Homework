@@ -121,14 +121,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*change from class to element selector*/
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*change from class to element selector*/
 footer h2 {
     font-size: 20px;
 }
