@@ -1,9 +1,11 @@
 # Horiseon-Refactor
 
+Horiseon provides professional marketing services for businesses that help to promote and boost sales online. Services that are offered include increasing visibility to the right customers, controlling reputation to reduce negative opinions, and marketing to more people through social media. 
+
 ## Description 
 
 This is a refactor on the Horiseon webpage. Change were made in HTML to semantic and CSS codes were reduced for better functionality.
-Comments were also added for better readability and understanding on the changes that were made.
+Comments were also added for better readability.
 
 ## Links
 
